@@ -42,7 +42,7 @@ p{
 	z-index: 9999;
 }
 
-.column, img{
+.column > img{
 	border: none;
 	position: relative;
 	float: left;
