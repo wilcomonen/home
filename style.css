@@ -43,6 +43,7 @@ p{
 }
 
 .column {
+	border: none;
 	position: relative;
 	float: left;
 	width: 256px;
