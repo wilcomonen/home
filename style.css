@@ -116,11 +116,7 @@ img{
    	max-width: 600px;
 }
 #img{
-    border-style: solid;
-	border-width: 2px;
-	margin: 5px 0px 5px 0px;
-	width: 600px;
-	height: 100%;
+
 }
 #content {
 	position: absolute;
