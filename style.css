@@ -46,6 +46,7 @@ p{
 	position: relative;
 	float: left;
 	width: 256px;
+	height: 724px;
 	//margin-top: 201px;
 	overflow-y: auto;
 	overflow-x: hidden;
@@ -111,7 +112,7 @@ a:active {
 	height:724px;
 	margin-right: 20px;
 }
-#poster{
+#img{
     border: 2px solid;
 	width: 600px;
 	height:840px;
