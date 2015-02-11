@@ -116,7 +116,8 @@ img{
    	max-width: 600px;
 }
 #img{
-    border: 2px solid;
+    border-style: solid;
+	border-width: 2px;
 	margin: 5px 0px 5px 0px;
 }
 #content {
