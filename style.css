@@ -114,11 +114,9 @@ a:active {
 }
 img{
    	max-width: 600px;
-
 }
 #img{
-    border: 2px solid;
-	margin: 5px 0px 5px 0px;
+
 }
 #content {
 	position: absolute;
