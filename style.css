@@ -18,7 +18,7 @@ html, body { height: 100% }
 body{
 	font-family: Arial, Helvetica, sans-serif;	
 	overflow-y: hidden;
-	line-height:1.5em;
+	line-height:3.5em;
 }
 h2 {
 	font-weight: bold;
